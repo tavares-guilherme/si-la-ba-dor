@@ -1,1 +1,1 @@
-Reiniciei o repositório pq tava uma bagunça.
+Reiniciei o meu repositório e commits pq tava uma bagunça.
